@@ -23,8 +23,6 @@ This project focuses on clustering key HIV-1 target proteins using graph cluster
 
 ## File Structure
 - `hiv_type_1.ipynb`: Main notebook for preprocessing and clustering
-- `*.png`: Graph visualizations of clusters
-- `protein_clusters.csv` *(optional)*: Mapping from protein sequence to cluster
 
 ## Purpose and Impact
 - Enables identification of potential HIV-1 drug inhibitors
